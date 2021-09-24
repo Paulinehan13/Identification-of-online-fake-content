@@ -28,10 +28,11 @@ Step 2: Generate tokens for the given content </br>
 Step 3:
 
 # Developement Pipeline
-Proposed Development Plan in pointers</br>
-Documents To be prepared for installation and evaluation</br>
-Repository Link</br>
-Specify the Third Party used</br>
-Proposed UI and functional flow in pointers</br>
+<h4>Proposed Development Plan in pointers</br></h4>
+<h4>Documents To be prepared for installation and evaluation</br></h4>
+<h4>Repository Link</br></h4>
+<h4>Specify the Third Party used</br></h4>
+<h4>Proposed UI and functional flow in pointers</br></h4>
+
 
 
