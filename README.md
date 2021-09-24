@@ -9,9 +9,9 @@ Step 2: Generate tokens for the given content
 Step 3:
 
 # Tech Stack 
-# Frontend Stack:
-•	HTML / CSS / JavaScript
-•	Front End Framework: React.js (JavaScript)
+Frontend Stack:\n
+•	HTML / CSS / JavaScript \n
+•	Front End Framework: React.js (JavaScript) \n
 
 # Backend Stack:
 •	Operating system -  Windows
