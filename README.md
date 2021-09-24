@@ -3,11 +3,11 @@
 This is a repository to create an Browser Extension to identify fake online content from new articles, forums etc.
 
 # Tech Stack 
-Frontend Stack:
+Frontend Stack:</br>
 •	HTML / CSS / JavaScript </br>
 •	Front End Framework: React.js (JavaScript) </br>
 
-Backend Stack:
+Backend Stack:</br>
 •	Operating system -  Windows </br>
 •	Programming language -   Python </br>
 •	Web development frameworks - Django (Python), Flask (Python) </br>
