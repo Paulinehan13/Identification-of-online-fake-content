@@ -19,8 +19,19 @@ Google Colab
 # API Used 
 Yes
 
-# Approach
+# Outcome and How it syncs with our problem Statement
+
+# Approach (4 liners)
 
 Step 1: Get Url </br>
 Step 2: Generate tokens for the given content </br>
 Step 3:
+
+# Developement Pipeline
+Proposed Development Plan in pointers</br>
+Documents To be prepared for installation and evaluation</br>
+Repository Link</br>
+Specify the Third Party used</br>
+Proposed UI and functional flow in pointers</br>
+
+
