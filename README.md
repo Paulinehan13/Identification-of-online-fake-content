@@ -35,4 +35,13 @@ Step 3:
 <h4>Proposed UI and functional flow in pointers</br></h4>
 
 
+# Extra Pipepline for Reference
+<!-- Program pipeline
+1.	Users input a claim like “Obama is not a US citizen”
+2.	Our program will search Event Registry’s database for thousands of articles related to the keywords.
+3.	We run those articles through our home-grown stance detection machine learning model which will determine each article’s relevance to the claim and it’s stance on it. We determine if an article agrees/disagrees/is-neutral or is unrelated to the input claim.
+4.	We then access our ever-evolving database of source reputability. If lots of reputable sources all agree with your claim, then it’s probably true!
+5.	Then we cite our sources so our users can click through and read more about that topic!
+ -->
+
 
