@@ -19,7 +19,7 @@ Google Colab
 # API Used 
 Yes
 
-# Procedure Stepwise
+# Approach
 
 Step 1: Get Url </br>
 Step 2: Generate tokens for the given content </br>
