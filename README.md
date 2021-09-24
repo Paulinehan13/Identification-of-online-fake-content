@@ -14,6 +14,7 @@ Backend Stack:</br>
 •	Web server -  HTTP/HTTPS 
 
 # Resources Used
+Google Colab
 
 # API Used 
 Yes
