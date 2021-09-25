@@ -32,7 +32,7 @@ Step 3: Return the prediction along with the relevent source</br>
 Step 4: If its fake trace back their content and obtain details of the user who post that content
 
 # Developement Pipeline
-<h2>Proposed Development Plan in pointers<h2></br>
+<h2>Proposed Development Plan in pointers</h2></br>
 1.Users input a claim like "Forest fire in Malibu. Ten tourists dead."</br>
 2.Our program will get tokens related to the claim from relevent articles.</br>
 3.The relevent articles are obtained from Event registry database / through Google API</br>
