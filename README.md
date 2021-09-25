@@ -13,9 +13,9 @@ Backend Stack:</br>
 •	Web development frameworks - Flask (Python) </br> 
 
 # Resources Used
-1.Pycharm for frontend stack.
-2.Google colab for backend.
-3.Tensorflow for ML model.
+1.Pycharm for frontend stack.</br>
+2.Google colab for backend.</br>
+3.Tensorflow for ML model.</br>
 
 # API Used 
 Yes
