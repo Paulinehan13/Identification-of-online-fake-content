@@ -39,6 +39,7 @@ Step 4: If its fake trace back their content and obtain details of the user who 
 3.The relevent articles are obtained from Event registry database / through Google API</br>
 4.We then pass the tokens to our machine learning model for creadibility prediction.If lots of sources agree, then it is true</br>
 5.We show the results as true/ false , and show sources that are relevent.</br>
+6.If it is fake, we use the platform's API to retrieve information about the user who posted the fake information.
 
 <h4>Documents To be prepared for installation and evaluation</br></h4>
 
