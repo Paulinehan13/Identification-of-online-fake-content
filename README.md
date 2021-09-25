@@ -40,7 +40,7 @@ Step 4: If its fake trace back their content and obtain details of the user who 
 5.We show the results as true/ false , and show sources that are relevent.</br>
 6.If it is fake, we use the platform's API to retrieve information about the user who posted the fake information.
 
-# Documents To be prepared for installation and evaluation
+<h2>Documents To be prepared for installation and evaluation</h2></br>
 For PyCharm-</br>
 1.Download the installer .exe from jetbrains.com whish is compatible for your OS.</br>
 2.Run the installer  </br>
@@ -48,13 +48,13 @@ For PyCharm-</br>
 4.Open Folder as Project</br>
 4.Add launchers dir to the PATH</br>
 
-# Repository Link
+<h2>Repository Link</h2></br>
 https://github.com/Paulinehan13/Identification-of-online-fake-content
 
-# Specify the Third Party used
+<h2>Specify the Third Party used</h2></br>
 Event registry API / Google API
 
-# Proposed UI and functional flow in pointers
+<h2>Proposed UI and functional flow in pointers</h2></br>
 1.Tokenization</br>
 2.Pre-Processing Text</br>
   •	Stop words</br>
