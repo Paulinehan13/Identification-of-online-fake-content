@@ -41,7 +41,7 @@ Step 4: If its fake trace back their content and obtain details of the user who 
 6.If it is fake, we use the platform's API to retrieve information about the user who posted the fake information.
 
 <h2>Documents To be prepared for installation and evaluation</h2></br>
-For PyCharm-</br>
+For PyCharm- </br>
 1.Download the installer .exe from jetbrains.com whish is compatible for your OS.</br>
 2.Run the installer  </br>
 3.Add a launching icon to the Desktop</br>
